@@ -33,11 +33,11 @@ a {
 }
 
 .tm-color-primary {
-  color: #069;
+  color: rgb(0, 170, 212);
 }
 
 .tm-color-gray {
-  color: rgb(255, 255, 255);
+  color: rgb(199, 199, 199);
 }
 
 .tm-bg-black-transparent {
